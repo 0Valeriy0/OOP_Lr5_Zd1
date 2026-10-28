@@ -140,6 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Car.cpp" />
+    <ClCompile Include="Driver.cpp" />
+    <ClCompile Include="Engine.cpp" />
+    <ClCompile Include="Garage.cpp" />
     <ClCompile Include="Motorcycle.cpp" />
     <ClCompile Include="OOP_Lr5_Zd1(na_bazi_lr_3_zd_1).cpp" />
     <ClCompile Include="Track.cpp" />
@@ -147,6 +150,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Car.h" />
+    <ClInclude Include="Driver.h" />
+    <ClInclude Include="Engine.h" />
+    <ClInclude Include="Garage.h" />
     <ClInclude Include="Motorcycle.h" />
     <ClInclude Include="Track.h" />
     <ClInclude Include="Trans.h" />
